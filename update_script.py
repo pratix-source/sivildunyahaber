@@ -1,18 +1,27 @@
-import json, os, requests, html
-from pathlib import Path
-from datetime import datetime, timezone
-DATA=Path('data/duyurular.json'); RSS=Path('rss.xml'); SITE='https://haber.sivildunya.com'
-def today(): return datetime.now(timezone.utc).date().isoformat()
-def load():
-    return json.loads(DATA.read_text('utf-8')) if DATA.exists() else {"platform":"haber.sivildunya.com","tarih":today(),"kategoriler":{}}
-def rss(data):
-    items=[]
-    for cat, arr in data.get('kategoriler',{}).items():
-        for i,x in enumerate(arr[:10]):
-            title=x.get('baslik') or x.get('kurum','Duyuru'); desc=x.get('ozet') or ' · '.join(filter(None,[x.get('kadro'),x.get('basvuru_tarihleri'),x.get('mecra')]))
-            items.append(f'<item><title>{html.escape(title)}</title><link>{SITE}/</link><guid>{cat}-{i}-{data.get("tarih")}</guid><description>{html.escape(desc)}</description><category>{cat}</category></item>')
-    RSS.write_text('<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>Sivil Dünya Haberler</title><link>'+SITE+'</link><description>Güncel duyurular</description>'+''.join(items)+'</channel></rss>',encoding='utf-8')
+import json, datetime, os
+from urllib.parse import urlparse
+DOMAIN="haber.sivildunya.com"
+SAFE_SOURCES=[
+("kamusal_duyurular","Resmî Gazete Günlük Sayısı","https://www.resmigazete.gov.tr/"),
+("personel_alimi","Kamu İlanları Resmî Duyuru Ekranı","https://kamuilan.sbb.gov.tr/"),
+("kamu_personeli_alimleri","Kariyer Kapısı Kamu İşe Alım İlanları","https://kariyerkapisi.gov.tr/isealim"),
+("akademik_personel","YÖK Akademik Duyurular","https://www.yok.gov.tr/tr/announcements"),
+("sinav","ÖSYM Duyuruları","https://www.osym.gov.tr/Duyurular/Index"),
+("sivil_toplum","Sivil Toplumla İlişkiler Genel Müdürlüğü","https://www.siviltoplum.gov.tr/haberler")]
+CATS=["kamusal_duyurular","kamu_personeli_alimleri","dernek_ve_stk_gelismeleri","gundem","personel_alimi","akademik_personel","sinav","tayin","kamu_personeli","egitim_burs","sivil_toplum","destekler"]
+def valid(u):
+    try: p=urlparse(u); return p.scheme in ('http','https') and bool(p.netloc)
+    except Exception: return False
 def main():
-    data=load(); data['platform']='haber.sivildunya.com'; data['tarih']=today()
-    DATA.parent.mkdir(exist_ok=True); DATA.write_text(json.dumps(data,ensure_ascii=False,indent=2),encoding='utf-8'); rss(data)
+    d={"platform":DOMAIN,"site_url":"https://"+DOMAIN,"tarih":datetime.date.today().isoformat(),"kategoriler":{k:[] for k in CATS}}
+    for cat,title,url in SAFE_SOURCES:
+        if valid(url): d['kategoriler'][cat].append({"baslik":title,"ozet":"Bu kayıt doğrulanabilir resmî kaynak bağlantısı olarak sunulur. Detay linki bulunmadan içerik uydurulmaz.","kaynak_adi":title,"kaynak_url":url,"dogrulama_durumu":"genel_kaynak"})
+    os.makedirs('data',exist_ok=True)
+    open('data/duyurular.json','w',encoding='utf-8').write(json.dumps(d,ensure_ascii=False,indent=2))
+    items=[]
+    for arr in d['kategoriler'].values(): items+=arr
+    rss=['<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel>',f'<title>Sivil Dünya Haber</title><link>https://{DOMAIN}</link><description>Doğrulanabilir kaynaklı bülten</description>']
+    for x in items: rss.append(f"<item><title>{x['baslik']}</title><link>{x['kaynak_url']}</link><description>{x['ozet']}</description></item>")
+    rss.append('</channel></rss>')
+    open('rss.xml','w',encoding='utf-8').write('\n'.join(rss))
 if __name__=='__main__': main()
