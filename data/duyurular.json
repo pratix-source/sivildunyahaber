@@ -1,51 +1,57 @@
-[
-  {
-    "id": "kamusal-duyurular-gunluk-bulteni-0001",
-    "category": "kamusal_duyurular",
-    "title": "Kamusal Duyurular Günlük Bülteni",
-    "summary": "Kamu kurumları tarafından yayımlanan genel duyurular, kararlar ve bilgilendirmeler resmi kaynaklardan takip edilmelidir.",
-    "source_name": "Resmî Gazete",
-    "source_url": "https://www.resmigazete.gov.tr/",
-    "tags": [
-      "kamusal duyuru",
-      "resmi kaynak",
-      "güncel"
+{
+  "platform": "haberler.sivildunya.com",
+  "tarih": "2026-08-29",
+  "kategoriler": {
+    "kamusal_duyurular": [
+      {
+        "baslik": "Resmi Gazete'de Hafta Sonu Öncesi İdari ve Yargı Kararları",
+        "ozet": "29 Ağustos 2026 tarihli Resmi Gazete'de yayımlanan kararlar doğrultusunda, kamu kurumlarının dijital arşivleme ve e-Devlet entegrasyon standartlarına ilişkin yeni usul ve esaslar yürürlüğe girdi.",
+        "source_url": "https://www.resmigazete.gov.tr/"
+      },
+      {
+        "baslik": "Yükseköğretim Kurulu (YÖK) Akademik Kadro ve Atama Kriterleri",
+        "ozet": "Üniversitelerin doçentlik ve profesörlük kadrolarına atanma asgari koşullarında yapılan güncellemeler, yeni akademik yıl öncesinde YÖK tarafından yayımlandı.",
+        "source_url": "https://www.yok.gov.tr/"
+      }
     ],
-    "date": "2026-08-29",
-    "importance": "normal",
-    "created_at": "2026-08-29T20:33:00+00:00"
-  },
-  {
-    "id": "kamu-personeli-alimlari-takibi-0002",
-    "category": "kamu_personeli_alimleri",
-    "title": "Kamu Personeli Alım İlanları Takibi",
-    "summary": "Kamu kurumlarının memur, sözleşmeli personel, işçi ve uzman yardımcısı alımlarına ilişkin ilanları resmi kanallardan kontrol edilmelidir.",
-    "source_name": "Kamu İlanları / Resmî Gazete",
-    "source_url": "https://www.resmigazete.gov.tr/",
-    "tags": [
-      "personel alımı",
-      "kamu",
-      "başvuru"
+    "kamu_personeli_alimleri": [
+      {
+        "kurum": "Siber Güvenlik Başkanlığı",
+        "kadro": "275 Sözleşmeli Uzman Personel",
+        "basvuru_tarihleri": "21 Ağustos – 11 Eylül 2026",
+        "mecra": "Başkanlık Kariyer Portalı",
+        "source_url": "https://isealimkariyerkapisi.cbiko.gov.tr/"
+      },
+      {
+        "kurum": "Türk Standartları Enstitüsü (TSE)",
+        "kadro": "129 İdari Hizmet Sözleşmeli Personel",
+        "basvuru_tarihleri": "21 Ağustos – 11 Eylül 2026",
+        "mecra": "Kariyer Kapısı",
+        "source_url": "https://isealimkariyerkapisi.cbiko.gov.tr/"
+      },
+      {
+        "kurum": "Dışişleri Bakanlığı",
+        "kadro": "80 Aday Konsolosluk ve İhtisas Memurluğu (KİM)",
+        "basvuru_tarihleri": "17 Ağustos – 16 Eylül 2026",
+        "mecra": "Kariyer Kapısı / e-Devlet",
+        "source_url": "https://isealimkariyerkapisi.cbiko.gov.tr/"
+      }
     ],
-    "date": "2026-08-29",
-    "importance": "high",
-    "created_at": "2026-08-29T20:33:00+00:00"
-  },
-  {
-    "id": "dernek-ve-stk-gelismeleri-bulteni-0003",
-    "category": "dernek_ve_stk_gelismeleri",
-    "title": "Dernek ve STK Gelişmeleri Bülteni",
-    "summary": "Dernekler, vakıflar ve sivil toplum kuruluşlarına yönelik hibe, proje, kapasite geliştirme ve mevzuat gelişmeleri takip edilmelidir.",
-    "source_name": "Sivil Toplumla İlişkiler Genel Müdürlüğü",
-    "source_url": "https://www.siviltoplum.gov.tr/",
-    "tags": [
-      "stk",
-      "dernek",
-      "hibe",
-      "proje"
+    "dernek_ve_stk_gelismeleri": [
+      {
+        "baslik": "Eylül Ayı Hibe ve Proje Takviminde Son Hafta Sonu Hazırlıkları",
+        "ozet": "Hak temelli sivil toplum kuruluşları ve dernekler, sonbahar dönemi uluslararası fon çağrıları ve yerel kalkınma ajansı destek programları öncesinde başvuru dosyalarını son aşamaya getiriyor.",
+        "source_url": "https://www.siviltoplum.gov.tr/"
+      }
     ],
-    "date": "2026-08-29",
-    "importance": "normal",
-    "created_at": "2026-08-29T20:33:00+00:00"
+    "gundem": [],
+    "personel_alimi": [],
+    "akademik_personel": [],
+    "sinav": [],
+    "tayin": [],
+    "kamu_personeli": [],
+    "egitim_burs": [],
+    "sivil_toplum": [],
+    "destekler": []
   }
-]
+}
