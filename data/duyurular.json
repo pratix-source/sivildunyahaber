@@ -1,0 +1,51 @@
+[
+  {
+    "id": "kamusal-duyurular-gunluk-bulteni-0001",
+    "category": "kamusal_duyurular",
+    "title": "Kamusal Duyurular Günlük Bülteni",
+    "summary": "Kamu kurumları tarafından yayımlanan genel duyurular, kararlar ve bilgilendirmeler resmi kaynaklardan takip edilmelidir.",
+    "source_name": "Resmî Gazete",
+    "source_url": "https://www.resmigazete.gov.tr/",
+    "tags": [
+      "kamusal duyuru",
+      "resmi kaynak",
+      "güncel"
+    ],
+    "date": "2026-08-29",
+    "importance": "normal",
+    "created_at": "2026-08-29T20:33:00+00:00"
+  },
+  {
+    "id": "kamu-personeli-alimlari-takibi-0002",
+    "category": "kamu_personeli_alimleri",
+    "title": "Kamu Personeli Alım İlanları Takibi",
+    "summary": "Kamu kurumlarının memur, sözleşmeli personel, işçi ve uzman yardımcısı alımlarına ilişkin ilanları resmi kanallardan kontrol edilmelidir.",
+    "source_name": "Kamu İlanları / Resmî Gazete",
+    "source_url": "https://www.resmigazete.gov.tr/",
+    "tags": [
+      "personel alımı",
+      "kamu",
+      "başvuru"
+    ],
+    "date": "2026-08-29",
+    "importance": "high",
+    "created_at": "2026-08-29T20:33:00+00:00"
+  },
+  {
+    "id": "dernek-ve-stk-gelismeleri-bulteni-0003",
+    "category": "dernek_ve_stk_gelismeleri",
+    "title": "Dernek ve STK Gelişmeleri Bülteni",
+    "summary": "Dernekler, vakıflar ve sivil toplum kuruluşlarına yönelik hibe, proje, kapasite geliştirme ve mevzuat gelişmeleri takip edilmelidir.",
+    "source_name": "Sivil Toplumla İlişkiler Genel Müdürlüğü",
+    "source_url": "https://www.siviltoplum.gov.tr/",
+    "tags": [
+      "stk",
+      "dernek",
+      "hibe",
+      "proje"
+    ],
+    "date": "2026-08-29",
+    "importance": "normal",
+    "created_at": "2026-08-29T20:33:00+00:00"
+  }
+]
