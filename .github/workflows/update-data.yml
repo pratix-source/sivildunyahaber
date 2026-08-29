@@ -1,32 +1,27 @@
-name: Haber Verilerini Otomatik Güncelle
+name: Haberler Verisini Güncelle
 on:
   schedule:
-    - cron: "0 5,12,19 * * *"
+    - cron: "0 6,18 * * *"
   workflow_dispatch:
 permissions:
   contents: write
 jobs:
-  update-news-data:
+  update:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-      - run: |
-          python -m pip install --upgrade pip
-          pip install requests
-      - env:
+      - run: pip install requests
+      - run: python update_script.py
+        env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-1.5-flash
-        run: python update_script.py
-      - id: git-check
-        run: |
-          if [[ -n "$(git status --porcelain)" ]]; then echo "changed=true" >> "$GITHUB_OUTPUT"; else echo "changed=false" >> "$GITHUB_OUTPUT"; fi
-      - if: steps.git-check.outputs.changed == 'true'
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/duyurular.json rss.xml
-          git commit -m "Haber bülteni verileri otomatik güncellendi"
-          git push
+      - run: |
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add data/duyurular.json rss.xml
+            git commit -m "Haberler verisi güncellendi"
+            git push
+          fi
