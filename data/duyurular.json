@@ -1,57 +1,67 @@
 {
-  "platform": "haberler.sivildunya.com",
-  "tarih": "2026-08-29",
+  "platform": "haber.sivildunya.com",
+  "site_url": "https://haber.sivildunya.com",
+  "tarih": "2026-08-30",
   "kategoriler": {
     "kamusal_duyurular": [
       {
-        "baslik": "Resmi Gazete'de Hafta Sonu Öncesi İdari ve Yargı Kararları",
-        "ozet": "29 Ağustos 2026 tarihli Resmi Gazete'de yayımlanan kararlar doğrultusunda, kamu kurumlarının dijital arşivleme ve e-Devlet entegrasyon standartlarına ilişkin yeni usul ve esaslar yürürlüğe girdi.",
-        "source_url": "https://www.resmigazete.gov.tr/"
-      },
-      {
-        "baslik": "Yükseköğretim Kurulu (YÖK) Akademik Kadro ve Atama Kriterleri",
-        "ozet": "Üniversitelerin doçentlik ve profesörlük kadrolarına atanma asgari koşullarında yapılan güncellemeler, yeni akademik yıl öncesinde YÖK tarafından yayımlandı.",
-        "source_url": "https://www.yok.gov.tr/"
+        "baslik": "Resmî Gazete Günlük Sayısı",
+        "ozet": "Bu kayıt doğrulanabilir resmî kaynak bağlantısı olarak sunulur. Detay ilan/haber linki bulunmadan içerik uydurulmaz.",
+        "kaynak_adi": "Resmî Gazete Günlük Sayısı",
+        "kaynak_url": "https://www.resmigazete.gov.tr/",
+        "dogrulama_durumu": "genel_kaynak"
       }
     ],
     "kamu_personeli_alimleri": [
       {
-        "kurum": "Siber Güvenlik Başkanlığı",
-        "kadro": "275 Sözleşmeli Uzman Personel",
-        "basvuru_tarihleri": "21 Ağustos – 11 Eylül 2026",
-        "mecra": "Başkanlık Kariyer Portalı",
-        "source_url": "https://isealimkariyerkapisi.cbiko.gov.tr/"
-      },
-      {
-        "kurum": "Türk Standartları Enstitüsü (TSE)",
-        "kadro": "129 İdari Hizmet Sözleşmeli Personel",
-        "basvuru_tarihleri": "21 Ağustos – 11 Eylül 2026",
-        "mecra": "Kariyer Kapısı",
-        "source_url": "https://isealimkariyerkapisi.cbiko.gov.tr/"
-      },
-      {
-        "kurum": "Dışişleri Bakanlığı",
-        "kadro": "80 Aday Konsolosluk ve İhtisas Memurluğu (KİM)",
-        "basvuru_tarihleri": "17 Ağustos – 16 Eylül 2026",
-        "mecra": "Kariyer Kapısı / e-Devlet",
-        "source_url": "https://isealimkariyerkapisi.cbiko.gov.tr/"
+        "baslik": "Kariyer Kapısı Kamu İşe Alım İlanları",
+        "ozet": "Bu kayıt doğrulanabilir resmî kaynak bağlantısı olarak sunulur. Detay ilan/haber linki bulunmadan içerik uydurulmaz.",
+        "kaynak_adi": "Kariyer Kapısı Kamu İşe Alım İlanları",
+        "kaynak_url": "https://kariyerkapisi.gov.tr/isealim",
+        "dogrulama_durumu": "genel_kaynak"
       }
     ],
-    "dernek_ve_stk_gelismeleri": [
-      {
-        "baslik": "Eylül Ayı Hibe ve Proje Takviminde Son Hafta Sonu Hazırlıkları",
-        "ozet": "Hak temelli sivil toplum kuruluşları ve dernekler, sonbahar dönemi uluslararası fon çağrıları ve yerel kalkınma ajansı destek programları öncesinde başvuru dosyalarını son aşamaya getiriyor.",
-        "source_url": "https://www.siviltoplum.gov.tr/"
-      }
-    ],
+    "dernek_ve_stk_gelismeleri": [],
     "gundem": [],
-    "personel_alimi": [],
-    "akademik_personel": [],
-    "sinav": [],
+    "personel_alimi": [
+      {
+        "baslik": "Kamu İlanları Resmî Duyuru Ekranı",
+        "ozet": "Bu kayıt doğrulanabilir resmî kaynak bağlantısı olarak sunulur. Detay ilan/haber linki bulunmadan içerik uydurulmaz.",
+        "kaynak_adi": "Kamu İlanları Resmî Duyuru Ekranı",
+        "kaynak_url": "https://kamuilan.sbb.gov.tr/",
+        "dogrulama_durumu": "genel_kaynak"
+      }
+    ],
+    "akademik_personel": [
+      {
+        "baslik": "YÖK Akademik Duyurular",
+        "ozet": "Bu kayıt doğrulanabilir resmî kaynak bağlantısı olarak sunulur. Detay ilan/haber linki bulunmadan içerik uydurulmaz.",
+        "kaynak_adi": "YÖK Akademik Duyurular",
+        "kaynak_url": "https://www.yok.gov.tr/tr/announcements",
+        "dogrulama_durumu": "genel_kaynak"
+      }
+    ],
+    "sinav": [
+      {
+        "baslik": "ÖSYM Duyuruları",
+        "ozet": "Bu kayıt doğrulanabilir resmî kaynak bağlantısı olarak sunulur. Detay ilan/haber linki bulunmadan içerik uydurulmaz.",
+        "kaynak_adi": "ÖSYM Duyuruları",
+        "kaynak_url": "https://osym.gov.tr/Duyurular/Index",
+        "dogrulama_durumu": "genel_kaynak"
+      }
+    ],
     "tayin": [],
     "kamu_personeli": [],
     "egitim_burs": [],
-    "sivil_toplum": [],
+    "sivil_toplum": [
+      {
+        "baslik": "Sivil Toplumla İlişkiler Genel Müdürlüğü",
+        "ozet": "Bu kayıt doğrulanabilir resmî kaynak bağlantısı olarak sunulur. Detay ilan/haber linki bulunmadan içerik uydurulmaz.",
+        "kaynak_adi": "Sivil Toplumla İlişkiler Genel Müdürlüğü",
+        "kaynak_url": "https://www.siviltoplum.gov.tr/haberler",
+        "dogrulama_durumu": "genel_kaynak"
+      }
+    ],
     "destekler": []
   }
 }
