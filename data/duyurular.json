@@ -1,67 +1,62 @@
 {
   "platform": "haber.sivildunya.com",
   "site_url": "https://haber.sivildunya.com",
-  "tarih": "2026-08-30",
+  "tarih": "2026-08-29",
+  "not": "Bu sistem haber uydurmaz. Kaynaklardan gerçek başlık/link çekilemezse sadece kaynak rehberi gösterilir.",
   "kategoriler": {
-    "kamusal_duyurular": [
-      {
-        "baslik": "Resmî Gazete Günlük Sayısı",
-        "ozet": "Bu kayıt doğrulanabilir resmî kaynak bağlantısı olarak sunulur. Detay ilan/haber linki bulunmadan içerik uydurulmaz.",
-        "kaynak_adi": "Resmî Gazete Günlük Sayısı",
-        "kaynak_url": "https://www.resmigazete.gov.tr/",
-        "dogrulama_durumu": "genel_kaynak"
-      }
-    ],
-    "kamu_personeli_alimleri": [
-      {
-        "baslik": "Kariyer Kapısı Kamu İşe Alım İlanları",
-        "ozet": "Bu kayıt doğrulanabilir resmî kaynak bağlantısı olarak sunulur. Detay ilan/haber linki bulunmadan içerik uydurulmaz.",
-        "kaynak_adi": "Kariyer Kapısı Kamu İşe Alım İlanları",
-        "kaynak_url": "https://kariyerkapisi.gov.tr/isealim",
-        "dogrulama_durumu": "genel_kaynak"
-      }
-    ],
+    "kamusal_duyurular": [],
+    "kamu_personeli_alimleri": [],
     "dernek_ve_stk_gelismeleri": [],
     "gundem": [],
-    "personel_alimi": [
-      {
-        "baslik": "Kamu İlanları Resmî Duyuru Ekranı",
-        "ozet": "Bu kayıt doğrulanabilir resmî kaynak bağlantısı olarak sunulur. Detay ilan/haber linki bulunmadan içerik uydurulmaz.",
-        "kaynak_adi": "Kamu İlanları Resmî Duyuru Ekranı",
-        "kaynak_url": "https://kamuilan.sbb.gov.tr/",
-        "dogrulama_durumu": "genel_kaynak"
-      }
-    ],
-    "akademik_personel": [
-      {
-        "baslik": "YÖK Akademik Duyurular",
-        "ozet": "Bu kayıt doğrulanabilir resmî kaynak bağlantısı olarak sunulur. Detay ilan/haber linki bulunmadan içerik uydurulmaz.",
-        "kaynak_adi": "YÖK Akademik Duyurular",
-        "kaynak_url": "https://www.yok.gov.tr/tr/announcements",
-        "dogrulama_durumu": "genel_kaynak"
-      }
-    ],
-    "sinav": [
-      {
-        "baslik": "ÖSYM Duyuruları",
-        "ozet": "Bu kayıt doğrulanabilir resmî kaynak bağlantısı olarak sunulur. Detay ilan/haber linki bulunmadan içerik uydurulmaz.",
-        "kaynak_adi": "ÖSYM Duyuruları",
-        "kaynak_url": "https://osym.gov.tr/Duyurular/Index",
-        "dogrulama_durumu": "genel_kaynak"
-      }
-    ],
+    "personel_alimi": [],
+    "akademik_personel": [],
+    "sinav": [],
     "tayin": [],
     "kamu_personeli": [],
     "egitim_burs": [],
-    "sivil_toplum": [
-      {
-        "baslik": "Sivil Toplumla İlişkiler Genel Müdürlüğü",
-        "ozet": "Bu kayıt doğrulanabilir resmî kaynak bağlantısı olarak sunulur. Detay ilan/haber linki bulunmadan içerik uydurulmaz.",
-        "kaynak_adi": "Sivil Toplumla İlişkiler Genel Müdürlüğü",
-        "kaynak_url": "https://www.siviltoplum.gov.tr/haberler",
-        "dogrulama_durumu": "genel_kaynak"
-      }
-    ],
+    "sivil_toplum": [],
     "destekler": []
-  }
+  },
+  "kaynaklar": [
+    {
+      "ad": "Resmî Gazete",
+      "url": "https://www.resmigazete.gov.tr/",
+      "kategori": "kamusal_duyurular"
+    },
+    {
+      "ad": "Kamu İlan",
+      "url": "https://kamuilan.sbb.gov.tr/",
+      "kategori": "kamu_personeli_alimleri"
+    },
+    {
+      "ad": "Kariyer Kapısı",
+      "url": "https://kariyerkapisi.gov.tr/isealim",
+      "kategori": "personel_alimi"
+    },
+    {
+      "ad": "YÖK Akademik İlanlar",
+      "url": "https://www.yok.gov.tr/tr/announcements",
+      "kategori": "akademik_personel"
+    },
+    {
+      "ad": "ÖSYM Duyurular",
+      "url": "https://osym.gov.tr/Duyurular/Index",
+      "kategori": "sinav"
+    },
+    {
+      "ad": "MEB Duyurular",
+      "url": "https://mebsonuc.meb.gov.tr/",
+      "kategori": "egitim_burs"
+    },
+    {
+      "ad": "Sivil Toplumla İlişkiler",
+      "url": "https://www.siviltoplum.gov.tr/haberler",
+      "kategori": "sivil_toplum"
+    },
+    {
+      "ad": "AB Başkanlığı Duyurular",
+      "url": "https://www.ab.gov.tr/42.html",
+      "kategori": "destekler"
+    }
+  ]
 }
