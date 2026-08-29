@@ -1,1 +1,8 @@
-{"name":"Sivil Dünya Haberler","short_name":"SD Haberler","start_url":"/","scope":"/","display":"standalone","theme_color":"#243fb5","background_color":"#ffffff","lang":"tr-TR","icons":[{"src":"https://placehold.co/192x192/243fb5/ffffff.png?text=SD","sizes":"192x192","type":"image/png"},{"src":"https://placehold.co/512x512/243fb5/ffffff.png?text=SD","sizes":"512x512","type":"image/png"}]}
+{
+  "name": "Sivil Dünya Haber",
+  "short_name": "Sivil Haber",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f3f6fb",
+  "theme_color": "#0b4ea2"
+}
