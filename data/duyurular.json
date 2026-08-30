@@ -1,21 +1,202 @@
 {
   "platform": "haber.sivildunya.com",
   "site_url": "https://haber.sivildunya.com",
-  "tarih": "2026-08-29",
-  "not": "Bu sistem haber uydurmaz. Kaynaklardan gerçek başlık/link çekilemezse sadece kaynak rehberi gösterilir.",
+  "tarih": "2026-08-30",
   "kategoriler": {
     "kamusal_duyurular": [],
     "kamu_personeli_alimleri": [],
     "dernek_ve_stk_gelismeleri": [],
     "gundem": [],
-    "personel_alimi": [],
-    "akademik_personel": [],
-    "sinav": [],
+    "personel_alimi": [
+      {
+        "baslik": "e-Devlet ile Giriş",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "Kariyer Kapısı",
+        "kaynak_url": "https://giris.turkiye.gov.tr/OAuth2AuthorizationServer/AuthorizationController?response_type=code&client_id=887456ea-c32d-446f-8b10-6167e55eaf36&state=random_value&scope=Kimlik-Dogrula&redirect_uri=https://kariyerkapisi.gov.tr/elogin",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "Sıkça Sorulan Sorular",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "Kariyer Kapısı",
+        "kaynak_url": "https://kariyerkapisi.gov.tr/sss",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      }
+    ],
+    "akademik_personel": [
+      {
+        "baslik": "Yürütme Kurulu",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "YÖK Akademik İlanlar",
+        "kaynak_url": "https://www.yok.gov.tr/tr/board/2",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "Önceki Başkanlar",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "YÖK Akademik İlanlar",
+        "kaynak_url": "https://www.yok.gov.tr/tr/board/3",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "Denetleme Kurulu",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "YÖK Akademik İlanlar",
+        "kaynak_url": "https://www.yok.gov.tr/tr/board/4",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "KVKK Aydınlatma Metni",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "YÖK Akademik İlanlar",
+        "kaynak_url": "https://www.yok.gov.tr/documents/documents/6a2be8993c16a.pdf",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "Misyon ve Vizyon",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "YÖK Akademik İlanlar",
+        "kaynak_url": "https://www.yok.gov.tr/tr/page/misyon-ve-vizyon-ZC1dg",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      }
+    ],
+    "sinav": [
+      {
+        "baslik": "Eşdeğerlikler",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "ÖSYM Duyurular",
+        "kaynak_url": "https://osym.gov.tr/esdegerlikler",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "Dilekçe Hakkında",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "ÖSYM Duyurular",
+        "kaynak_url": "https://osym.gov.tr/adaylar-tarafindan-dilekce-gonderilmesi-ve-islem-ucretleri",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "Şifremi Unuttum",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "ÖSYM Duyurular",
+        "kaynak_url": "https://osym.gov.tr/internet-erisim-sifresi",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "Sonuç Belgesi Doğrulama",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "ÖSYM Duyurular",
+        "kaynak_url": "https://sonuc.osym.gov.tr/BelgeKontrol.aspx                                                                                                                                                                                                                                                                                                                                                                                                                                                                         ",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "Yasaklı ve İzinli Belgeler",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "ÖSYM Duyurular",
+        "kaynak_url": "https://dokuman.osym.gov.tr/pdfdokuman/yasakli-ve-izinli-belgeler.pdf                                                                                                                                                                                                                                                                                                                                                                                                                                               ",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      }
+    ],
     "tayin": [],
     "kamu_personeli": [],
-    "egitim_burs": [],
-    "sivil_toplum": [],
-    "destekler": []
+    "egitim_burs": [
+      {
+        "baslik": "2026 Yılı Sınav Uygulama Takvimi",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "MEB Duyurular",
+        "kaynak_url": "https://www.meb.gov.tr/meb_iys_dosyalar/2026_04/03144112_2026_SINAV_UYGULAMA_TAKVIMI.pdf",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      }
+    ],
+    "sivil_toplum": [
+      {
+        "baslik": "www.allaboutcookies.org",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "Sivil Toplumla İlişkiler",
+        "kaynak_url": "http://www.allaboutcookies.org",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "İçişleri Bakanlığı",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "Sivil Toplumla İlişkiler",
+        "kaynak_url": "https://www.icisleri.gov.tr/",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "Gönüllü Sivil Toplum",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "Sivil Toplumla İlişkiler",
+        "kaynak_url": "https://gonullu.siviltoplum.gov.tr/",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "Sivil Toplumla İlişkiler Genel Müdürlüğü",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "Sivil Toplumla İlişkiler",
+        "kaynak_url": "http://www.siviltoplum.gov.tr/",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      }
+    ],
+    "destekler": [
+      {
+        "baslik": "ANA SAYFA Giriş Noktanız",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "AB Başkanlığı Duyurular",
+        "kaynak_url": "https://www.ab.gov.tr/",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "BAŞKANLIK Kurumsal Yapı",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "AB Başkanlığı Duyurular",
+        "kaynak_url": "https://www.ab.gov.tr/bakanlik_46.html",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "Dışişleri Bakanı Hakan FİDAN",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "AB Başkanlığı Duyurular",
+        "kaynak_url": "https://www.ab.gov.tr/disisleri-bakani-hakan-fidan_53516.html",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "Dışişleri Bakan Yardımcısı ve AB Başkanı Büyükelçi Mehmet Kemal BOZAY",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "AB Başkanlığı Duyurular",
+        "kaynak_url": "https://www.ab.gov.tr/disisleri-bakan-yardimcisi-ve-ab-baskani-buyukelci-mehmet-kemal-bozay_53392.html",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "AB Nezdinde Türkiye Daimi Temsilci Yardımcılığı",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "AB Başkanlığı Duyurular",
+        "kaynak_url": "https://www.ab.gov.tr/ab-nezdinde-turkiye-daimi-temsilci-yardimciligi_45389.html",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      }
+    ]
   },
   "kaynaklar": [
     {
