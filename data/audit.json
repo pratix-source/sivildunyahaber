@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T23:19:06+00:00",
+  "generated_at": "2026-09-02T23:29:46+00:00",
   "sources": [
     {
       "ad": "Resmî Gazete",
@@ -7,7 +7,7 @@
       "durum": "başarısız",
       "http_status": null,
       "aday": 0,
-      "hata": "HTTPSConnectionPool(host='www.resmigazete.gov.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.resmigazete.gov.tr', port=443): Failed to resolve 'www.resmigazete.gov.tr' ([Errno -5] "
+      "hata": "HTTPSConnectionPool(host='www.resmigazete.gov.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certifica"
     },
     {
       "ad": "Kamu İlan",
@@ -31,7 +31,7 @@
       "durum": "başarısız",
       "http_status": null,
       "aday": 0,
-      "hata": "HTTPSConnectionPool(host='www.yok.gov.tr', port=443): Max retries exceeded with url: /tr/announcements (Caused by NameResolutionError(\"HTTPSConnection(host='www.yok.gov.tr', port=443): Failed to resolve 'www.yok.gov.tr' ([Errno -3] Temporar"
+      "hata": "HTTPSConnectionPool(host='www.yok.gov.tr', port=443): Max retries exceeded with url: /tr/announcements (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.yok.gov.tr', port=443) at 0x7f1289955650>, 'Connection to www.yok.gov.tr timed "
     },
     {
       "ad": "ÖSYM Duyurular",
