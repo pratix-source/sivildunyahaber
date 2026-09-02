@@ -1,0 +1,76 @@
+{
+  "generated_at": "2026-09-02T23:19:06+00:00",
+  "sources": [
+    {
+      "ad": "Resmî Gazete",
+      "url": "https://www.resmigazete.gov.tr/",
+      "durum": "başarısız",
+      "http_status": null,
+      "aday": 0,
+      "hata": "HTTPSConnectionPool(host='www.resmigazete.gov.tr', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.resmigazete.gov.tr', port=443): Failed to resolve 'www.resmigazete.gov.tr' ([Errno -5] "
+    },
+    {
+      "ad": "Kamu İlan",
+      "url": "https://kamuilan.sbb.gov.tr/",
+      "durum": "başarısız",
+      "http_status": null,
+      "aday": 0,
+      "hata": "403 Client Error: Forbidden for url: https://kamuilan.sbb.gov.tr/"
+    },
+    {
+      "ad": "Kariyer Kapısı",
+      "url": "https://kariyerkapisi.gov.tr/isealim",
+      "durum": "başarılı",
+      "http_status": 200,
+      "aday": 0,
+      "hata": null
+    },
+    {
+      "ad": "YÖK Akademik İlanlar",
+      "url": "https://www.yok.gov.tr/tr/announcements",
+      "durum": "başarısız",
+      "http_status": null,
+      "aday": 0,
+      "hata": "HTTPSConnectionPool(host='www.yok.gov.tr', port=443): Max retries exceeded with url: /tr/announcements (Caused by NameResolutionError(\"HTTPSConnection(host='www.yok.gov.tr', port=443): Failed to resolve 'www.yok.gov.tr' ([Errno -3] Temporar"
+    },
+    {
+      "ad": "ÖSYM Duyurular",
+      "url": "https://osym.gov.tr/Duyurular/Index",
+      "durum": "başarılı",
+      "http_status": 200,
+      "aday": 8,
+      "hata": null
+    },
+    {
+      "ad": "MEB Duyurular",
+      "url": "https://mebsonuc.meb.gov.tr/",
+      "durum": "başarılı",
+      "http_status": 200,
+      "aday": 1,
+      "hata": null
+    },
+    {
+      "ad": "Sivil Toplumla İlişkiler",
+      "url": "https://www.siviltoplum.gov.tr/haberler",
+      "durum": "başarılı",
+      "http_status": 200,
+      "aday": 8,
+      "hata": null
+    },
+    {
+      "ad": "AB Başkanlığı Duyurular",
+      "url": "https://www.ab.gov.tr/42.html",
+      "durum": "başarılı",
+      "http_status": 200,
+      "aday": 8,
+      "hata": null
+    }
+  ],
+  "totals": {
+    "new_candidates": 25,
+    "all_records": 25,
+    "published": 0,
+    "review_queue": 25,
+    "flagged": 0
+  }
+}

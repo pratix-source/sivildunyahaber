@@ -1,8 +1,12 @@
 {
-  "name": "Sivil Dünya Haber",
-  "short_name": "Sivil Haber",
+  "name": "Sivil Dünya Haber Dashboardu",
+  "short_name": "Sivil Dünya Haber",
+  "description": "Resmî kaynak bağlantılı, editoryal onaylı haber akışı",
   "start_url": "/",
+  "scope": "/",
   "display": "standalone",
-  "background_color": "#f4f6f9",
-  "theme_color": "#0b5ed7"
+  "background_color": "#f3f6fb",
+  "theme_color": "#155eef",
+  "lang": "tr",
+  "dir": "ltr"
 }
