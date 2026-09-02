@@ -7,7 +7,24 @@
     "kamu_personeli_alimleri": [],
     "dernek_ve_stk_gelismeleri": [],
     "gundem": [],
-    "personel_alimi": [],
+    "personel_alimi": [
+      {
+        "baslik": "e-Devlet ile Giriş",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "Kariyer Kapısı",
+        "kaynak_url": "https://giris.turkiye.gov.tr/OAuth2AuthorizationServer/AuthorizationController?response_type=code&client_id=887456ea-c32d-446f-8b10-6167e55eaf36&state=random_value&scope=Kimlik-Dogrula&redirect_uri=https://kariyerkapisi.gov.tr/elogin",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      },
+      {
+        "baslik": "Sıkça Sorulan Sorular",
+        "ozet": "Bu kayıt resmî kaynaktan bağlantı ile alınmıştır. Ayrıntılar için bağlantıyı açın.",
+        "kaynak_adi": "Kariyer Kapısı",
+        "kaynak_url": "https://kariyerkapisi.gov.tr/sss",
+        "dogrulama_durumu": "dogrulanmis",
+        "detay_linki": true
+      }
+    ],
     "akademik_personel": [
       {
         "baslik": "Yürütme Kurulu",
