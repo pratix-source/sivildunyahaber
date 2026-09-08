@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T15:26:02+00:00",
+  "generated_at": "2026-09-08T20:21:51+00:00",
   "sources": [
     {
       "ad": "Resmî Gazete",
@@ -15,7 +15,7 @@
       "durum": "başarısız",
       "http_status": null,
       "aday": 0,
-      "hata": "HTTPSConnectionPool(host='kamuilan.sbb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='kamuilan.sbb.gov.tr', port=443) at 0x7f37ff1a5f10>, 'Connection to kamuilan.sbb.gov.tr timed o"
+      "hata": "HTTPSConnectionPool(host='kamuilan.sbb.gov.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate "
     },
     {
       "ad": "Kariyer Kapısı",
@@ -28,26 +28,26 @@
     {
       "ad": "YÖK Akademik İlanlar",
       "url": "https://www.yok.gov.tr/tr/announcements",
-      "durum": "başarısız",
-      "http_status": null,
-      "aday": 0,
-      "hata": "HTTPSConnectionPool(host='www.yok.gov.tr', port=443): Max retries exceeded with url: /tr/announcements (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.yok.gov.tr', port=443) at 0x7f37ff1e3050>, 'Connection to www.yok.gov.tr timed "
+      "durum": "başarılı",
+      "http_status": 200,
+      "aday": 8,
+      "hata": null
     },
     {
       "ad": "ÖSYM Duyurular",
       "url": "https://osym.gov.tr/Duyurular/Index",
-      "durum": "başarısız",
-      "http_status": null,
-      "aday": 0,
-      "hata": "HTTPSConnectionPool(host='osym.gov.tr', port=443): Max retries exceeded with url: /Duyurular/Index (Caused by ConnectTimeoutError(<HTTPSConnection(host='osym.gov.tr', port=443) at 0x7f37feffc550>, 'Connection to osym.gov.tr timed out. (conn"
+      "durum": "başarılı",
+      "http_status": 200,
+      "aday": 8,
+      "hata": null
     },
     {
       "ad": "MEB Duyurular",
       "url": "https://mebsonuc.meb.gov.tr/",
-      "durum": "başarısız",
-      "http_status": null,
-      "aday": 0,
-      "hata": "HTTPSConnectionPool(host='mebsonuc.meb.gov.tr', port=443): Read timed out. (read timeout=20)"
+      "durum": "başarılı",
+      "http_status": 200,
+      "aday": 1,
+      "hata": null
     },
     {
       "ad": "Sivil Toplumla İlişkiler",
@@ -67,10 +67,10 @@
     }
   ],
   "totals": {
-    "new_candidates": 16,
-    "all_records": 16,
+    "new_candidates": 33,
+    "all_records": 33,
     "published": 0,
-    "review_queue": 16,
+    "review_queue": 33,
     "flagged": 0
   }
 }
