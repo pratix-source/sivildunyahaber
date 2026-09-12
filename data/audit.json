@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T01:39:16+00:00",
+  "generated_at": "2026-09-12T09:39:19+00:00",
   "sources": [
     {
       "ad": "Resmî Gazete",
@@ -20,10 +20,10 @@
     {
       "ad": "Kariyer Kapısı",
       "url": "https://kariyerkapisi.gov.tr/isealim",
-      "durum": "başarılı",
-      "http_status": 200,
+      "durum": "başarısız",
+      "http_status": null,
       "aday": 0,
-      "hata": null
+      "hata": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "ad": "YÖK Akademik İlanlar",
