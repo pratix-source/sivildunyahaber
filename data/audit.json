@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T19:51:40+00:00",
+  "generated_at": "2026-09-21T01:46:39+00:00",
   "sources": [
     {
       "ad": "Resmî Gazete",
@@ -28,10 +28,10 @@
     {
       "ad": "YÖK Akademik İlanlar",
       "url": "https://www.yok.gov.tr/tr/announcements",
-      "durum": "başarısız",
-      "http_status": null,
-      "aday": 0,
-      "hata": "418 Client Error: I'm a teapot for url: https://www.yok.gov.tr/tr/announcements"
+      "durum": "başarılı",
+      "http_status": 200,
+      "aday": 8,
+      "hata": null
     },
     {
       "ad": "ÖSYM Duyurular",
@@ -67,10 +67,10 @@
     }
   ],
   "totals": {
-    "new_candidates": 25,
-    "all_records": 25,
+    "new_candidates": 33,
+    "all_records": 33,
     "published": 0,
-    "review_queue": 25,
+    "review_queue": 33,
     "flagged": 0
   }
 }
