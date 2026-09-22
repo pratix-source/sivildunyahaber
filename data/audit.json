@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T10:24:13+00:00",
+  "generated_at": "2026-09-22T15:46:55+00:00",
   "sources": [
     {
       "ad": "Resmî Gazete",
@@ -7,7 +7,7 @@
       "durum": "başarısız",
       "http_status": null,
       "aday": 0,
-      "hata": "HTTPSConnectionPool(host='www.resmigazete.gov.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certifica"
+      "hata": "400 Client Error: Bad Request for url: http://resmigazete.gov.tr"
     },
     {
       "ad": "Kamu İlan",
