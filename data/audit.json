@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T16:51:48+00:00",
+  "generated_at": "2026-10-02T21:29:24+00:00",
   "sources": [
     {
       "ad": "Resmî Gazete",
@@ -15,7 +15,7 @@
       "durum": "başarısız",
       "http_status": null,
       "aday": 0,
-      "hata": "403 Client Error: Forbidden for url: https://kamuilan.sbb.gov.tr/"
+      "hata": "HTTPSConnectionPool(host='kamuilan.sbb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='kamuilan.sbb.gov.tr', port=443) at 0x7f134d541710>, 'Connection to kamuilan.sbb.gov.tr timed o"
     },
     {
       "ad": "Kariyer Kapısı",
@@ -28,26 +28,26 @@
     {
       "ad": "YÖK Akademik İlanlar",
       "url": "https://www.yok.gov.tr/tr/announcements",
-      "durum": "başarılı",
-      "http_status": 200,
-      "aday": 8,
-      "hata": null
+      "durum": "başarısız",
+      "http_status": null,
+      "aday": 0,
+      "hata": "HTTPSConnectionPool(host='www.yok.gov.tr', port=443): Max retries exceeded with url: /tr/announcements (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.yok.gov.tr', port=443) at 0x7f134d57ed90>, 'Connection to www.yok.gov.tr timed "
     },
     {
       "ad": "ÖSYM Duyurular",
       "url": "https://osym.gov.tr/Duyurular/Index",
-      "durum": "başarılı",
-      "http_status": 200,
-      "aday": 8,
-      "hata": null
+      "durum": "başarısız",
+      "http_status": null,
+      "aday": 0,
+      "hata": "HTTPSConnectionPool(host='osym.gov.tr', port=443): Max retries exceeded with url: /Duyurular/Index (Caused by ConnectTimeoutError(<HTTPSConnection(host='osym.gov.tr', port=443) at 0x7f134d38c290>, 'Connection to osym.gov.tr timed out. (conn"
     },
     {
       "ad": "MEB Duyurular",
       "url": "https://mebsonuc.meb.gov.tr/",
-      "durum": "başarılı",
-      "http_status": 200,
-      "aday": 1,
-      "hata": null
+      "durum": "başarısız",
+      "http_status": null,
+      "aday": 0,
+      "hata": "HTTPSConnectionPool(host='mebsonuc.meb.gov.tr', port=443): Read timed out. (read timeout=20)"
     },
     {
       "ad": "Sivil Toplumla İlişkiler",
@@ -67,10 +67,10 @@
     }
   ],
   "totals": {
-    "new_candidates": 33,
-    "all_records": 33,
+    "new_candidates": 16,
+    "all_records": 16,
     "published": 0,
-    "review_queue": 33,
+    "review_queue": 16,
     "flagged": 0
   }
 }
