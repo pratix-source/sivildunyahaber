@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T12:45:02+00:00",
+  "generated_at": "2026-10-05T23:23:14+00:00",
   "sources": [
     {
       "ad": "Resmî Gazete",
@@ -44,10 +44,10 @@
     {
       "ad": "MEB Duyurular",
       "url": "https://mebsonuc.meb.gov.tr/",
-      "durum": "başarılı",
-      "http_status": 200,
-      "aday": 1,
-      "hata": null
+      "durum": "başarısız",
+      "http_status": null,
+      "aday": 0,
+      "hata": "('Connection aborted.', ConnectionResetError(104, 'Connection reset by peer'))"
     },
     {
       "ad": "Sivil Toplumla İlişkiler",
@@ -67,10 +67,10 @@
     }
   ],
   "totals": {
-    "new_candidates": 33,
-    "all_records": 33,
+    "new_candidates": 32,
+    "all_records": 32,
     "published": 0,
-    "review_queue": 33,
+    "review_queue": 32,
     "flagged": 0
   }
 }
