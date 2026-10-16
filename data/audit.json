@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T01:46:05+00:00",
+  "generated_at": "2026-10-16T10:11:40+00:00",
   "sources": [
     {
       "ad": "Resmî Gazete",
@@ -60,17 +60,17 @@
     {
       "ad": "AB Başkanlığı Duyurular",
       "url": "https://www.ab.gov.tr/42.html",
-      "durum": "başarısız",
-      "http_status": null,
-      "aday": 0,
-      "hata": "HTTPSConnectionPool(host='www.ab.gov.tr', port=443): Max retries exceeded with url: /42.html (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: certificate has expired (_ssl.c:1016)'"
+      "durum": "başarılı",
+      "http_status": 200,
+      "aday": 8,
+      "hata": null
     }
   ],
   "totals": {
-    "new_candidates": 25,
-    "all_records": 25,
+    "new_candidates": 33,
+    "all_records": 33,
     "published": 0,
-    "review_queue": 25,
+    "review_queue": 33,
     "flagged": 0
   }
 }
