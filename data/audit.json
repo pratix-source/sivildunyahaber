@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T16:07:32+00:00",
+  "generated_at": "2026-10-22T20:52:44+00:00",
   "sources": [
     {
       "ad": "Resmî Gazete",
@@ -44,10 +44,10 @@
     {
       "ad": "MEB Duyurular",
       "url": "https://mebsonuc.meb.gov.tr/",
-      "durum": "başarısız",
-      "http_status": null,
-      "aday": 0,
-      "hata": "HTTPSConnectionPool(host='mebsonuc.meb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='mebsonuc.meb.gov.tr', port=443) at 0x7f1faba648d0>, 'Connection to mebsonuc.meb.gov.tr timed o"
+      "durum": "başarılı",
+      "http_status": 200,
+      "aday": 1,
+      "hata": null
     },
     {
       "ad": "Sivil Toplumla İlişkiler",
@@ -67,10 +67,10 @@
     }
   ],
   "totals": {
-    "new_candidates": 32,
-    "all_records": 32,
+    "new_candidates": 33,
+    "all_records": 33,
     "published": 0,
-    "review_queue": 32,
+    "review_queue": 33,
     "flagged": 0
   }
 }
