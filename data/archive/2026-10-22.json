@@ -1,0 +1,849 @@
+{
+  "platform": "haber.sivildunya.com",
+  "site_url": "https://haber.sivildunya.com",
+  "tarih": "2026-10-22",
+  "son_guncelleme": "2026-10-22T02:00:22+00:00",
+  "site": {
+    "site_name": "Sivil Dünya Haber",
+    "domain": "haber.sivildunya.com",
+    "publisher_name": "",
+    "business_address": "",
+    "trade_name": "",
+    "email": "",
+    "phone": "",
+    "electronic_notification_address": "",
+    "hosting_provider_name": "",
+    "hosting_provider_address": "",
+    "responsible_editor": "",
+    "privacy_email": "",
+    "legal_review_status": "bilgiler tamamlanmayı bekliyor",
+    "last_reviewed_at": "2026-09-03"
+  },
+  "kategoriler": {
+    "kamusal_duyurular": [],
+    "kamu_personeli_alimleri": [],
+    "dernek_ve_stk_gelismeleri": [],
+    "gundem": [],
+    "personel_alimi": [],
+    "akademik_personel": [
+      {
+        "id": "özbekistan-güzel-sanatlar-eğitimi-alanlarında-pedagojik-ve-uzman-personelin-yeni-a2aa6e9c",
+        "baslik": "Özbekistan / Güzel Sanatlar Eğitimi Alanlarında Pedagojik ve Uzman Personelin Yeniden Eğitimi ve Mesleki Gelişimi",
+        "ozet": "Özbekistan / Güzel Sanatlar Eğitimi Alanlarında Pedagojik ve Uzman Personelin Yeniden Eğitimi ve Mesleki Gelişimi Özbekistan Güzel Sanatlar Akademisi bünyesindeki Güzel Sanatlar Eğitimi Alanlarında Pedagojik ve Uzman Personelin Yeniden Eğitimi ve Mesleki Gelişimi Merkezi, 12-13 Kasım 2026 tarihlerinde Taşkent’te “Büyük İpek Yolu Kavşağında Güzel Sanatlar Eğitiminin Küresel Perspektifleri” başlıklı bir konferans düzenleyecektir. Konferansa ilişkin bilgi ekte yer almaktadır.",
+        "kategori": "akademik_personel",
+        "kaynak_adi": "YÖK Akademik İlanlar",
+        "kaynak_url": "https://www.yok.gov.tr/tr/announcements/ozbekistan-guzel-sanatlar-egitimi-alanlarinda-pedagojik-ve-uzman-personelin-yeniden-egitimi-ve-mesleki-gelisimi-KIPmD",
+        "kaynak_host": "www.yok.gov.tr",
+        "kaynak_tarihi": "2026-10-12",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:01+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:01+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "20-nisan-2026-tarihli-ve-33230-sayılı-resmi-gazete-de-yayımlanan-35-sözleşmeli-p-4cad104a",
+        "baslik": "20 Nisan 2026 Tarihli ve 33230 Sayılı Resmi Gazete'de Yayımlanan 35 Sözleşmeli Personel Alımı Yedek Aday Duyurusu",
+        "ozet": "20 Nisan 2026 Tarihli ve 33230 Sayılı Resmi Gazete'de Yayımlanan 35 Sözleşmeli Personel Alımı Yedek Aday Duyurusu 657 Sayılı Devlet Memurları Kanunu’nun 4. maddesinin (B) fıkrası ile 6/6/1978 tarihli ve 7/15754 sayılı Bakanlar Kurulu Kararı ile yürürlüğe giren “Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslar” uyarınca Başkanlığımızda istihdam edilecek 35 sözleşmeli personel pozisyonuna müracaat ederek şartları sağlayan adaylardan asıl ve yedek olarak belirlenenlerin listesi 12.06.2026 tarihinde web sayfamızda",
+        "kategori": "akademik_personel",
+        "kaynak_adi": "YÖK Akademik İlanlar",
+        "kaynak_url": "https://www.yok.gov.tr/tr/announcements/20-nisan-2026-tarihli-ve-33230-sayili-resmi-gazetede-yayimlanan-35-sozlesmeli-personel-alimi-yedek-aday-duyurusu-acdrb",
+        "kaynak_host": "www.yok.gov.tr",
+        "kaynak_tarihi": "2026-06-12",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:00+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:00+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "20-nisan-2026-tarihli-ve-33230-sayılı-resmi-gazete-de-yayımlanan-35-sözleşmeli-p-45a79b93",
+        "baslik": "20 Nisan 2026 Tarihli ve 33230 Sayılı Resmi Gazete'de Yayımlanan 35 Sözleşmeli Personel Alımı Yedek Aday Duyurusu",
+        "ozet": "20 Nisan 2026 Tarihli ve 33230 Sayılı Resmi Gazete'de Yayımlanan 35 Sözleşmeli Personel Alımı Yedek Aday Duyurusu 657 Sayılı Devlet Memurları Kanunu’nun 4. maddesinin (B) fıkrası ile 6/6/1978 tarihli ve 7/15754 sayılı Bakanlar Kurulu Kararı ile yürürlüğe giren “Sözleşmeli Personel Çalıştırılmasına İlişkin Esaslar” uyarınca Başkanlığımızda istihdam edilecek 35 sözleşmeli personel pozisyonuna müracaat ederek şartları sağlayan adaylardan asıl ve yedek olarak belirlenenlerin listesi 12.06.2026 tarihinde web sayfamızda",
+        "kategori": "akademik_personel",
+        "kaynak_adi": "YÖK Akademik İlanlar",
+        "kaynak_url": "https://www.yok.gov.tr/tr/announcements/20-nisan-2026-tarihli-ve-33230-sayili-resmi-gazetede-yayimlanan-35-sozlesmeli-personel-alimi-yedek-aday-duyurusu-eAeZb",
+        "kaynak_host": "www.yok.gov.tr",
+        "kaynak_tarihi": "2026-06-12",
+        "ilk_yayin_tarihi": "2026-10-22T01:59:59+00:00",
+        "guncellenme_tarihi": "2026-10-22T01:59:59+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "5-üniversite-için-rektör-adaylığı-başvuru-i-lanı-e90ffcfa",
+        "baslik": "5 Üniversite için Rektör Adaylığı Başvuru İlanı",
+        "ozet": "5 Üniversite için Rektör Adaylığı Başvuru İlanı 2547 Sayılı Yükseköğretim Kanunu'nun 13 üncü maddesinin (a) fıkrası ve 3 sayılı \"Üst Kademe Kamu Yöneticileri ile Kamu Kurum ve Kuruluşlarında Atama Usûllerine Dair Cumhurbaşkanlığı Kararnamesi\" hükümleri ile \"Rektör Adayı Olmak İsteyenlerin Başvurusuna İlişkin Usul ve Esaslar\" uyarınca Hatay Mustafa Kemal Üniversitesi, İzmir Yüksek Teknoloji Enstitüsü, Kafkas Üniversitesi, Kocaeli Üniversitesi ve Tokat Gaziosmanpaşa Üniversitesine rektör ataması yapılacaktır. Başvuru",
+        "kategori": "akademik_personel",
+        "kaynak_adi": "YÖK Akademik İlanlar",
+        "kaynak_url": "https://www.yok.gov.tr/tr/announcements/5-universite-icin-rektor-basvuru-ilani-HhcKv",
+        "kaynak_host": "www.yok.gov.tr",
+        "kaynak_tarihi": "2026-10-09",
+        "ilk_yayin_tarihi": "2026-10-22T01:59:58+00:00",
+        "guncellenme_tarihi": "2026-10-22T01:59:58+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "2026-dikey-geçiş-sınavı-2026-sağlık-lisans-tamamlama-2026-teknik-öğretmenler-i-ç-1f44ef19",
+        "baslik": "2026 Dikey Geçiş Sınavı, 2026 Sağlık Lisans Tamamlama , 2026 Teknik Öğretmenler İçin Mühendislik Tamamlama Mazeretli Kayıt Başvuruları",
+        "ozet": "2026 Dikey Geçiş Sınavı, 2026 Sağlık Lisans Tamamlama , 2026 Teknik Öğretmenler İçin Mühendislik Tamamlama Mazeretli Kayıt Başvuruları 2026 Dikey Geçiş Sınavı (Ek yerleştirme dahil), 2026 Sağlık Lisans Tamamlama ve 2026 Teknik Öğretmenler İçin Mühendislik Tamamlama yerleştirme sonucunda yükseköğretim kurumuna yerleşen ancak kayıt tarihleri içerisinde çeşitli nedenlerle kayıt yaptıramayan adayların kayıt tarihinin bitiş tarihinden itibaren 1 hafta içinde yerleştirildiği programın bulunduğu yükseköğretim kurumuna baş",
+        "kategori": "akademik_personel",
+        "kaynak_adi": "YÖK Akademik İlanlar",
+        "kaynak_url": "https://www.yok.gov.tr/tr/announcements/mazeretli-kayit-basvurulari-D5XZ5",
+        "kaynak_host": "www.yok.gov.tr",
+        "kaynak_tarihi": "2026-09-18",
+        "ilk_yayin_tarihi": "2026-10-22T01:59:57+00:00",
+        "guncellenme_tarihi": "2026-10-22T01:59:57+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "ön-değerlendirme-sonuçlarına-göre-öncelikli-alanlardaki-doktora-programlarına-öğ-eb0258c8",
+        "baslik": "Ön Değerlendirme Sonuçlarına Göre Öncelikli Alanlardaki Doktora Programlarına Öğrenci Seçme Sınavına Katılma Hakkına Sahip Olanların Başvurularının ÖSYM Tarafından Alınması",
+        "ozet": "Ön Değerlendirme Sonuçlarına Göre Öncelikli Alanlardaki Doktora Programlarına Öğrenci Seçme Sınavına Katılma Hakkına Sahip Olanların Başvurularının ÖSYM Tarafından Alınması Öncelikli Alanlardaki Doktora Programlarına Öğrenci Seçme Sınavı , 28 Kasım 2026 tarihinde uygulanacaktır. Öncelikli Alanlardaki Doktora Programlarına Öğrenci Seçme Sınavı için ön değerlendirme sonuçları sonucunda hak kazanan adaylar için sınava başvurular, 1-8 Ekim 2026 tarihleri arasında yapılacaktır.",
+        "kategori": "akademik_personel",
+        "kaynak_adi": "YÖK Akademik İlanlar",
+        "kaynak_url": "https://www.yok.gov.tr/tr/announcements/on-degerlendirme-sonuclarina-gore-oncelikli-alanlardaki-doktora-programlarina-ogrenci-secme-sinavina-katilma-hakkina-sahip-olanlarin-basvurularinin-osym-tarafindan-alinmasi-pWpaV",
+        "kaynak_host": "www.yok.gov.tr",
+        "kaynak_tarihi": "2026-10-01",
+        "ilk_yayin_tarihi": "2026-10-22T01:59:56+00:00",
+        "guncellenme_tarihi": "2026-10-22T01:59:56+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "öncelikli-alanlardaki-doktora-programlarına-öğrenci-seçme-sınavı-için-başvurular-d990d1e9",
+        "baslik": "Öncelikli Alanlardaki Doktora Programlarına Öğrenci Seçme Sınavı için Başvurular uzatılmıştır",
+        "ozet": "Öncelikli Alanlardaki Doktora Programlarına Öğrenci Seçme Sınavı için Başvurular uzatılmıştır Öğretim Üyesi Dışındaki Öğretim Elemanı Kadrolarına Yapılacak Atamalarda Uygulanacak Merkezi Sınav ile Giriş Sınavlarına İlişkin Usul ve Esaslar Hakkında Yönetmeliğin 15 inci maddesinin üçüncü fıkrası hükümleri ve Öncelikli Alanlardaki Doktora Programlarına Öğrenci Seçilmesi ve Bu Öğrencilerin Araştırma Görevlisi Kadrolarına Atanmalarına ve Diğer Hususlara İlişkin Usul ve Esaslar uyarınca, Araştırma Üniversitelerimizin önc",
+        "kategori": "akademik_personel",
+        "kaynak_adi": "YÖK Akademik İlanlar",
+        "kaynak_url": "https://www.yok.gov.tr/tr/announcements/oncelikli-alanlardaki-doktora-programlarina-ogrenci-secme-sinavi-icin-basvurular-uzatilmistir-kYvu3",
+        "kaynak_host": "www.yok.gov.tr",
+        "kaynak_tarihi": "2026-09-08",
+        "ilk_yayin_tarihi": "2026-10-22T01:59:55+00:00",
+        "guncellenme_tarihi": "2026-10-22T01:59:55+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "uluslararası-araştırma-programları-akap-dosap-gep-2026-yılı-4-dönem-başvuru-duyu-125cfcc4",
+        "baslik": "Uluslararası Araştırma Programları (AKAP, DOSAP, GEP) 2026 Yılı 4. Dönem Başvuru Duyurusu",
+        "ozet": "Uluslararası Araştırma Programları (AKAP, DOSAP, GEP) 2026 Yılı 4. Dönem Başvuru Duyurusu Yükseköğretim Kurulu tarafından doktora öğrencileri ve öğretim üyelerinin dünyanın seçkin üniversitelerinde uluslararası standartlarda araştırma yapmalarını teşvik etmek amacıyla başlatılan “Uluslararası Araştırmacı Programları” kapsamında, 2026 Yılı Başvuruları 4 (dört) dönem şeklinde alınacak olup 4.",
+        "kategori": "akademik_personel",
+        "kaynak_adi": "YÖK Akademik İlanlar",
+        "kaynak_url": "https://www.yok.gov.tr/tr/announcements/uluslararasi-arastirma-programlari-akap-dosap-gep-2026-yili-4-donem-basvuru-duyurusu-Hfp65",
+        "kaynak_host": "www.yok.gov.tr",
+        "kaynak_tarihi": "2026-10-19",
+        "ilk_yayin_tarihi": "2026-10-22T01:59:54+00:00",
+        "guncellenme_tarihi": "2026-10-22T01:59:54+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      }
+    ],
+    "sinav": [
+      {
+        "id": "2026-ekpss-kura-i-le-engelli-kamu-personeli-yerleştirme-kura-usulü-i-le-yapılan--1472f9ca",
+        "baslik": "2026-EKPSS/Kura İle Engelli Kamu Personeli Yerleştirme: Kura Usulü İle Yapılan Yerleştirme Sonuçları Açıklandı",
+        "ozet": "2026-EKPSS/Kura İle Engelli Kamu Personeli Yerleştirme: Kura Usulü İle Yapılan Yerleştirme Sonuçları Açıklandı | T.C. Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı 2026-EKPSS/Kura İle Engelli Kamu Personeli Yerleştirme: Kura Usulü İle Yapılan Yerleştirme Sonuçları Açıklandı DUYURU (2 Şubat 2026) 2026-EKPSS/Kura İle Engelli Kamu Personeli Yerleştirme: Kura Usulü İle Yapılan Yerleştirme Sonuçları Açıklandı 2026-EKPSS/Kura İle Engelli Kamu Personeli Yerleştirme Tercih Kılavuzu’nda yer alan kamu kurum ve kuruluşlarını",
+        "kategori": "sinav",
+        "kaynak_adi": "ÖSYM Duyurular",
+        "kaynak_url": "https://osym.gov.tr/2026ekpsskura-ile-engelli-kamu-personeli-yerlestirme-kura-usulu-ile-yapilan-yerlestirme-sonuclari-aciklandi",
+        "kaynak_host": "osym.gov.tr",
+        "kaynak_tarihi": "2026-02-02",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:05+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:05+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "2026-ekpss-sınav-sonucu-ile-yapılan-yerleştirme-sonuçlarına-i-lişkin-sayısal-bil-34e4fc07",
+        "baslik": "2026-EKPSS: Sınav Sonucu ile Yapılan Yerleştirme Sonuçlarına İlişkin Sayısal Bilgiler",
+        "ozet": "2026-EKPSS: Sınav Sonucu ile Yapılan Yerleştirme Sonuçlarına İlişkin Sayısal Bilgiler | T.C. Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı 2026-EKPSS: Sınav Sonucu ile Yapılan Yerleştirme Sonuçlarına İlişkin Sayısal Bilgiler 2026-EKPSS Yerleştirme Sonuçlarına İlişkin Sayısal Bilgiler 2026-EKPSS Yerleştirme Sonuçlarına İlişkin En Küçük ve En Büyük Puanlar (Lisans) 2026-EKPSS Yerleştirme Sonuçlarına İlişkin En Küçük ve En Büyük Puanlar (Ön Lisans) 2026-EKPSS Yerleştirme Sonuçlarına İlişkin En Küçük ve En Büyük Puanl",
+        "kategori": "sinav",
+        "kaynak_adi": "ÖSYM Duyurular",
+        "kaynak_url": "https://osym.gov.tr/2026ekpss-sinav-sonucu-ile-yapilan-yerlestirme-sonuclarina-iliskin-sayisal-bilgiler",
+        "kaynak_host": "osym.gov.tr",
+        "kaynak_tarihi": null,
+        "ilk_yayin_tarihi": "2026-10-22T02:00:05+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:05+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "2026-dus-1-dönem-sınavı-ile-2026-sts-diş-hekimliği-1-dönem-sınavı-başvuruların-a-af1f5110",
+        "baslik": "2026-DUS 1. Dönem Sınavı ile 2026-STS Diş Hekimliği 1. Dönem Sınavı: Başvuruların Alınması",
+        "ozet": "Dönem Sınavı ile 2026-STS Diş Hekimliği 1. Dönem Sınavı: Başvuruların Alınması | T.C.",
+        "kategori": "sinav",
+        "kaynak_adi": "ÖSYM Duyurular",
+        "kaynak_url": "https://osym.gov.tr/2026dus-1-donem-sinavi-ile-2026sts-dis-hekimligi-1-donem-sinavi-basvurularin-alinmasi",
+        "kaynak_host": "osym.gov.tr",
+        "kaynak_tarihi": "2026-03-10",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:05+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:05+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "2026-ekpss-kura-i-le-engelli-kamu-personeli-yerleştirme-sınav-sonucu-i-le-yapıla-3b27dad4",
+        "baslik": "2026-EKPSS/Kura İle Engelli Kamu Personeli Yerleştirme: Sınav Sonucu İle Yapılan Yerleştirme Sonuçları Açıklandı",
+        "ozet": "2026-EKPSS/Kura İle Engelli Kamu Personeli Yerleştirme: Sınav Sonucu İle Yapılan Yerleştirme Sonuçları Açıklandı | T.C. Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı 2026-EKPSS/Kura İle Engelli Kamu Personeli Yerleştirme: Sınav Sonucu İle Yapılan Yerleştirme Sonuçları Açıklandı DUYURU (2 Şubat 2026 ) 2026-EKPSS/Kura İle Engelli Kamu Personeli Yerleştirme: Sınav Sonucu İle Yapılan Yerleştirme Sonuçları Açıklandı 2026-EKPSS/Kura İle Engelli Kamu Personeli Yerleştirme Tercih Kılavuzu’nda yer alan kamu kurum ve kurulu",
+        "kategori": "sinav",
+        "kaynak_adi": "ÖSYM Duyurular",
+        "kaynak_url": "https://osym.gov.tr/2026ekpsskura-ile-engelli-kamu-personeli-yerlestirme-sinav-sonucu-ile-yapilan-yerlestirme-sonuclari-aciklandi",
+        "kaynak_host": "osym.gov.tr",
+        "kaynak_tarihi": "2026-02-02",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:04+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:04+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "2026-kamu-personel-seçme-sınavı-kpss-lisans-başvuruların-alınması-bd2d2dc5",
+        "baslik": "2026 Kamu Personel Seçme Sınavı (KPSS) Lisans: Başvuruların Alınması",
+        "ozet": "2026 Kamu Personel Seçme Sınavı (KPSS) Lisans: Başvuruların Alınması | T.C. Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı 2026 Kamu Personel Seçme Sınavı (KPSS) Lisans: Başvuruların Alınması DUYURU (1 Temmuz 2026) 2026 Kamu Personel Seçme Sınavı (KPSS) Lisans: Başvuruların Alınması 2026 Kamu Personel Seçme Sınavı’nın (2026-KPSS Lisans) Genel Yetenek-Genel Kültür oturumu 6 Eylül 2026 tarihinde, Alan Bilgisi oturumları 12-13 Eylül 2026 tarihlerinde; Diyanet İşleri Başkanlığında din hizmetlerinde görev almak isteyenl",
+        "kategori": "sinav",
+        "kaynak_adi": "ÖSYM Duyurular",
+        "kaynak_url": "https://osym.gov.tr/2026-kamu-personel-secme-sinavi-kpss-lisans-basvurularin-alinmasi",
+        "kaynak_host": "osym.gov.tr",
+        "kaynak_tarihi": "2026-07-01",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:04+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:04+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "2026-msü-sınavı-başvuruların-alınması-f9e6d681",
+        "baslik": "2026-MSÜ Sınavı: Başvuruların Alınması",
+        "ozet": "2026-MSÜ Sınavı: Başvuruların Alınması | T.C. Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı 2026-MSÜ Sınavı: Başvuruların Alınması DUYURU (5 Ocak 2026) 2026-MSÜ Sınavı: Başvuruların Alınması 2026 Millî Savunma Üniversitesi Askerî Öğrenci Aday Belirleme Sınavı (2026-MSÜ) , 1 Mart 2026 tarihinde uygulanacaktır.",
+        "kategori": "sinav",
+        "kaynak_adi": "ÖSYM Duyurular",
+        "kaynak_url": "https://osym.gov.tr/2026msu-sinavi-basvurularin-alinmasi",
+        "kaynak_host": "osym.gov.tr",
+        "kaynak_tarihi": "2026-01-05",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:04+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:04+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "2026-guy-sınavı-başvuruların-alınması-cd27aac8",
+        "baslik": "2026-GUY Sınavı: Başvuruların Alınması",
+        "ozet": "2026-GUY Sınavı: Başvuruların Alınması | T.C. Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı 2026-GUY Sınavı: Başvuruların Alınması DUYURU (14 Ocak 2026) 2026-GUY Sınavı: Başvuruların Alınması 2026 Gelir İdaresi Başkanlığı Gelir Uzman Yardımcılığı Giriş Sınavı (2026-GUY) , 7 Mart 2026 tarihinde uygulanacaktır.",
+        "kategori": "sinav",
+        "kaynak_adi": "ÖSYM Duyurular",
+        "kaynak_url": "https://osym.gov.tr/2026guy-sinavi-basvurularin-alinmasi",
+        "kaynak_host": "osym.gov.tr",
+        "kaynak_tarihi": "2026-01-14",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:04+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:04+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "2026-engelli-kamu-personeli-seçme-sınavı-ekpss-kura-başvuru-kılavuzu-ve-başvuru--1d33adfe",
+        "baslik": "2026-Engelli Kamu Personeli Seçme Sınavı (EKPSS) Kura Başvuru Kılavuzu ve Başvuru Bilgileri",
+        "ozet": "2026-Engelli Kamu Personeli Seçme Sınavı (EKPSS) Kura Başvuru Kılavuzu ve Başvuru Bilgileri | T.C. Ölçme, Seçme ve Yerleştirme Merkezi Başkanlığı 2026-Engelli Kamu Personeli Seçme Sınavı (EKPSS) Kura Başvuru Kılavuzu ve Başvuru Bilgileri 2026-Engelli Kamu Personeli Seçme Sınavı (EKPSS) ve Kura Başvuru Kılavuzu Aday Başvuru Formu Başvuru Merkezleri MENÜ Hakkında Duyurular Kılavuzlar Sayısal Bilgiler Sınav Soru ve Cevapları Erişilebilirlik Menüsü Ekran Okuyucu Seçili Alan Okuyucu Üzerine Gelinen Metni Oku Bağlantı Vu",
+        "kategori": "sinav",
+        "kaynak_adi": "ÖSYM Duyurular",
+        "kaynak_url": "https://osym.gov.tr/2026engelli-kamu-personeli-secme-sinavi-ekpss-kura-basvuru-kilavuzu-ve-basvuru-bilgileri",
+        "kaynak_host": "osym.gov.tr",
+        "kaynak_tarihi": null,
+        "ilk_yayin_tarihi": "2026-10-22T02:00:03+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:03+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      }
+    ],
+    "tayin": [],
+    "kamu_personeli": [],
+    "egitim_burs": [
+      {
+        "id": "2026-yılı-sınav-uygulama-takvimi-344d1b00",
+        "baslik": "2026 Yılı Sınav Uygulama Takvimi",
+        "ozet": "%PDF-1.5 %���� 1 0 obj <>>> endobj 2 0 obj <> endobj 3 0 obj <>/ExtGState<>/Font<>/ProcSet[/PDF/Text/ImageB/ImageC/ImageI] >>/MediaBox[ 0 0 595.32 842.04] /Contents 4 0 R/Group<>/Tabs/S/StructParents 0>> endobj 4 0 obj <> stream x��}[��6��\"� �c�D\u0014E�\b0�Q\u0011�dy���[rol8�A��jǖ���ޘ���ą�$2\u0013< ��Q��\u0000����K �|�������W_�x��ˇ����_N?�x���������O/��ᗏ�>|����\u0017���������_�>?>��~�����w���ߟ?���g��?��tJ���]�O���?� �r�����]'� ��^t�9\u0019ש��}׏��{���w�}��ɜ^�~�!�����Y�������\u001bq\u0012\u0002����ϟ��\"\u0000@��8���\u0006���K~�N�A�����g?ݝ������=���%���雷^_������F|",
+        "kategori": "egitim_burs",
+        "kaynak_adi": "MEB Duyurular",
+        "kaynak_url": "https://www.meb.gov.tr/meb_iys_dosyalar/2026_04/03144112_2026_SINAV_UYGULAMA_TAKVIMI.pdf",
+        "kaynak_host": "www.meb.gov.tr",
+        "kaynak_tarihi": null,
+        "ilk_yayin_tarihi": "2026-10-22T02:00:11+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:11+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      }
+    ],
+    "sivil_toplum": [
+      {
+        "id": "sivil-toplumla-i-lişkiler-genel-müdürlüğü-sendikalara-i-lişkin-mevzuat-4c8547a7",
+        "baslik": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Sendikalara İlişkin Mevzuat",
+        "ozet": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Sendikalara İlişkin Mevzuat Modal content × T.C. İÇİŞLERİ BAKANLIĞI WEB SİTESİ GİZLİLİK VE ÇEREZ POLİTİKASI Web sitemizi ziyaret edenlerin kişisel verilerini 6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca işlemekte ve gizliliğini korumaktayız.",
+        "kategori": "sivil_toplum",
+        "kaynak_adi": "Sivil Toplumla İlişkiler",
+        "kaynak_url": "https://www.siviltoplum.gov.tr/sendikalara-iliskin-mevzuat",
+        "kaynak_host": "www.siviltoplum.gov.tr",
+        "kaynak_tarihi": "2001-09-07",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:17+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:17+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "sivil-toplumla-i-lişkiler-genel-müdürlüğü-sendikalara-i-lişkin-i-statistikler-509d45a6",
+        "baslik": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Sendikalara İlişkin İstatistikler",
+        "ozet": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Sendikalara İlişkin İstatistikler Modal content × T.C. İÇİŞLERİ BAKANLIĞI WEB SİTESİ GİZLİLİK VE ÇEREZ POLİTİKASI Web sitemizi ziyaret edenlerin kişisel verilerini 6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca işlemekte ve gizliliğini korumaktayız.",
+        "kategori": "sivil_toplum",
+        "kaynak_adi": "Sivil Toplumla İlişkiler",
+        "kaynak_url": "https://www.siviltoplum.gov.tr/sendikalara-iliskin-istatistikler",
+        "kaynak_host": "www.siviltoplum.gov.tr",
+        "kaynak_tarihi": null,
+        "ilk_yayin_tarihi": "2026-10-22T02:00:17+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:17+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "sivil-toplumla-i-lişkiler-genel-müdürlüğü-siyasi-partiler-mevzuat-7caa2879",
+        "baslik": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Siyasi Partiler - Mevzuat",
+        "ozet": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Siyasi Partiler - Mevzuat Modal content × T.C. İÇİŞLERİ BAKANLIĞI WEB SİTESİ GİZLİLİK VE ÇEREZ POLİTİKASI Web sitemizi ziyaret edenlerin kişisel verilerini 6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca işlemekte ve gizliliğini korumaktayız.",
+        "kategori": "sivil_toplum",
+        "kaynak_adi": "Sivil Toplumla İlişkiler",
+        "kaynak_url": "https://www.siviltoplum.gov.tr/siyasi-partiler---mevzuat",
+        "kaynak_host": "www.siviltoplum.gov.tr",
+        "kaynak_tarihi": null,
+        "ilk_yayin_tarihi": "2026-10-22T02:00:16+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:16+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "sivil-toplumla-i-lişkiler-genel-müdürlüğü-siyasi-parti-kuruluşu-nasıl-yapılır-f88f6ee3",
+        "baslik": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Siyasi Parti Kuruluşu Nasıl Yapılır?",
+        "ozet": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Siyasi Parti Kuruluşu Nasıl Yapılır? İÇİŞLERİ BAKANLIĞI WEB SİTESİ GİZLİLİK VE ÇEREZ POLİTİKASI Web sitemizi ziyaret edenlerin kişisel verilerini 6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca işlemekte ve gizliliğini korumaktayız.",
+        "kategori": "sivil_toplum",
+        "kaynak_adi": "Sivil Toplumla İlişkiler",
+        "kaynak_url": "https://www.siviltoplum.gov.tr/siyasi-parti-kurulusu-nasil-yapilir",
+        "kaynak_host": "www.siviltoplum.gov.tr",
+        "kaynak_tarihi": null,
+        "ilk_yayin_tarihi": "2026-10-22T02:00:16+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:16+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "sivil-toplumla-i-lişkiler-genel-müdürlüğü-yıllara-göre-faal-dernek-sayıları-b2423ae2",
+        "baslik": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Yıllara Göre Faal Dernek Sayıları",
+        "ozet": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Yıllara Göre Faal Dernek Sayıları Modal content × T.C. İÇİŞLERİ BAKANLIĞI WEB SİTESİ GİZLİLİK VE ÇEREZ POLİTİKASI Web sitemizi ziyaret edenlerin kişisel verilerini 6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca işlemekte ve gizliliğini korumaktayız.",
+        "kategori": "sivil_toplum",
+        "kaynak_adi": "Sivil Toplumla İlişkiler",
+        "kaynak_url": "https://www.siviltoplum.gov.tr/yillara-gore-faal-dernek-sayilari",
+        "kaynak_host": "www.siviltoplum.gov.tr",
+        "kaynak_tarihi": null,
+        "ilk_yayin_tarihi": "2026-10-22T02:00:15+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:15+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "sivil-toplumla-i-lişkiler-genel-müdürlüğü-yabancı-stk-lara-i-lişkin-i-statistikl-f32015ea",
+        "baslik": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Yabancı STK'lara İlişkin İstatistikler",
+        "ozet": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Yabancı STK'lara İlişkin İstatistikler Modal content × T.C. İÇİŞLERİ BAKANLIĞI WEB SİTESİ GİZLİLİK VE ÇEREZ POLİTİKASI Web sitemizi ziyaret edenlerin kişisel verilerini 6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca işlemekte ve gizliliğini korumaktayız.",
+        "kategori": "sivil_toplum",
+        "kaynak_adi": "Sivil Toplumla İlişkiler",
+        "kaynak_url": "https://www.siviltoplum.gov.tr/yabanci-stklara-iliskin-istatistikler",
+        "kaynak_host": "www.siviltoplum.gov.tr",
+        "kaynak_tarihi": null,
+        "ilk_yayin_tarihi": "2026-10-22T02:00:15+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:15+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "sivil-toplumla-i-lişkiler-genel-müdürlüğü-siyasi-partilere-i-lişkin-i-statistikl-81202664",
+        "baslik": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Siyasi Partilere İlişkin İstatistikler",
+        "ozet": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Siyasi Partilere İlişkin İstatistikler Modal content × T.C. İÇİŞLERİ BAKANLIĞI WEB SİTESİ GİZLİLİK VE ÇEREZ POLİTİKASI Web sitemizi ziyaret edenlerin kişisel verilerini 6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca işlemekte ve gizliliğini korumaktayız.",
+        "kategori": "sivil_toplum",
+        "kaynak_adi": "Sivil Toplumla İlişkiler",
+        "kaynak_url": "https://www.siviltoplum.gov.tr/siyasi-partilere-iliskin-istatistikler",
+        "kaynak_host": "www.siviltoplum.gov.tr",
+        "kaynak_tarihi": null,
+        "ilk_yayin_tarihi": "2026-10-22T02:00:15+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:15+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "sivil-toplumla-i-lişkiler-genel-müdürlüğü-yabancı-stk-ların-türkiye-deki-faaliye-97d7133e",
+        "baslik": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Yabancı STK'ların Türkiye'deki Faaliyeti",
+        "ozet": "Sivil Toplumla İlişkiler Genel Müdürlüğü - Yabancı STK'ların Türkiye'deki Faaliyeti Modal content × T.C. İÇİŞLERİ BAKANLIĞI WEB SİTESİ GİZLİLİK VE ÇEREZ POLİTİKASI Web sitemizi ziyaret edenlerin kişisel verilerini 6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca işlemekte ve gizliliğini korumaktayız.",
+        "kategori": "sivil_toplum",
+        "kaynak_adi": "Sivil Toplumla İlişkiler",
+        "kaynak_url": "https://www.siviltoplum.gov.tr/yabanci-stklarin-turkiyedeki-faaliyeti",
+        "kaynak_host": "www.siviltoplum.gov.tr",
+        "kaynak_tarihi": null,
+        "ilk_yayin_tarihi": "2026-10-22T02:00:14+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:14+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      }
+    ],
+    "destekler": [
+      {
+        "id": "jean-monnet-burs-programı-2026-2027-akademik-yılı-başvuruları-başladı-6d87ef77",
+        "baslik": "Jean Monnet Burs Programı 2026-2027 Akademik Yılı Başvuruları Başladı!",
+        "ozet": "Jean Monnet Burs Programı 2026-2027 Akademik Yılı Başvuruları Başladı! ENGLISH ANA SAYFA Giriş Noktanız BAŞKANLIK Kurumsal Yapı Dışişleri Bakanı Hakan FİDAN Dışişleri Bakan Yardımcısı ve AB Başkanı Büyükelçi Mehmet Kemal BOZAY AB Nezdinde Türkiye Daimi Temsilci Yardımcılığı Birimler Avrupa Birliği ile İlişkiler Genel Müdürlüğü Mali İşbirliği ve Proje Uygulama Genel Müdürlüğü Yönetim Hizmetleri Dairesi Başkanlığı İç Denetim Birimi Başkanlığı Hukuk Müşavirliği Strateji Geliştirme Dairesi Başkanlığı Basın ve Halkla İl",
+        "kategori": "destekler",
+        "kaynak_adi": "AB Başkanlığı Duyurular",
+        "kaynak_url": "https://www.ab.gov.tr/jean-monnet-burs-programi-2026-2027-akademik-yili-basvurulari-basladi_54098.html",
+        "kaynak_host": "www.ab.gov.tr",
+        "kaynak_tarihi": "2025-09-04",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:22+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:22+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "pace-projesi-hibe-duyurusu-yayımlandı-06379e28",
+        "baslik": "PACE Projesi Hibe Duyurusu Yayımlandı",
+        "ozet": "PACE Projesi Hibe Duyurusu Yayımlandı ENGLISH ANA SAYFA Giriş Noktanız BAŞKANLIK Kurumsal Yapı Dışişleri Bakanı Hakan FİDAN Dışişleri Bakan Yardımcısı ve AB Başkanı Büyükelçi Mehmet Kemal BOZAY AB Nezdinde Türkiye Daimi Temsilci Yardımcılığı Birimler Avrupa Birliği ile İlişkiler Genel Müdürlüğü Mali İşbirliği ve Proje Uygulama Genel Müdürlüğü Yönetim Hizmetleri Dairesi Başkanlığı İç Denetim Birimi Başkanlığı Hukuk Müşavirliği Strateji Geliştirme Dairesi Başkanlığı Basın ve Halkla İlişkiler Müşavirliği Başkanlık Öze",
+        "kategori": "destekler",
+        "kaynak_adi": "AB Başkanlığı Duyurular",
+        "kaynak_url": "https://www.ab.gov.tr/pace-projesi-hibe-duyurusu-yayimlandi-deneme_54138.html",
+        "kaynak_host": "www.ab.gov.tr",
+        "kaynak_tarihi": "2025-12-01",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:21+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:21+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "jean-monnet-burs-programı-2027-2028-akademik-yılı-başvuruları-kapsamında-açıklam-aefe1648",
+        "baslik": "Jean Monnet Burs Programı 2027-2028 Akademik Yılı Başvuruları Kapsamında “Açıklamalar” Yayımlandı",
+        "ozet": "Jean Monnet Burs Programı 2027-2028 Akademik Yılı Başvuruları Kapsamında “Açıklamalar” Yayımlandı ENGLISH ANA SAYFA Giriş Noktanız BAŞKANLIK Kurumsal Yapı Dışişleri Bakanı Hakan FİDAN Dışişleri Bakan Yardımcısı ve AB Başkanı Büyükelçi Mehmet Kemal BOZAY AB Nezdinde Türkiye Daimi Temsilci Yardımcılığı Birimler Avrupa Birliği ile İlişkiler Genel Müdürlüğü Mali İşbirliği ve Proje Uygulama Genel Müdürlüğü Yönetim Hizmetleri Dairesi Başkanlığı İç Denetim Birimi Başkanlığı Hukuk Müşavirliği Strateji Geliştirme Dairesi Ba",
+        "kategori": "destekler",
+        "kaynak_adi": "AB Başkanlığı Duyurular",
+        "kaynak_url": "https://www.ab.gov.tr/jean-monnet-burs-programi-2027-2028-akademik-yili-basvurulari-kapsaminda-aciklamalar-yayimlandi_54293.html",
+        "kaynak_host": "www.ab.gov.tr",
+        "kaynak_tarihi": "2026-10-15",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:21+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:21+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "jean-monnet-burs-programı-2027-2028-akademik-yılı-başvuruları-başladı-37e6bcc2",
+        "baslik": "Jean Monnet Burs Programı 2027-2028 Akademik Yılı Başvuruları Başladı!",
+        "ozet": "Jean Monnet Burs Programı 2027-2028 Akademik Yılı Başvuruları Başladı! ENGLISH ANA SAYFA Giriş Noktanız BAŞKANLIK Kurumsal Yapı Dışişleri Bakanı Hakan FİDAN Dışişleri Bakan Yardımcısı ve AB Başkanı Büyükelçi Mehmet Kemal BOZAY AB Nezdinde Türkiye Daimi Temsilci Yardımcılığı Birimler Avrupa Birliği ile İlişkiler Genel Müdürlüğü Mali İşbirliği ve Proje Uygulama Genel Müdürlüğü Yönetim Hizmetleri Dairesi Başkanlığı İç Denetim Birimi Başkanlığı Hukuk Müşavirliği Strateji Geliştirme Dairesi Başkanlığı Basın ve Halkla İl",
+        "kategori": "destekler",
+        "kaynak_adi": "AB Başkanlığı Duyurular",
+        "kaynak_url": "https://www.ab.gov.tr/jean-monnet-burs-programi-2027-2028-akademik-yili-basvurulari-basladi_54267.html",
+        "kaynak_host": "www.ab.gov.tr",
+        "kaynak_tarihi": "2026-08-27",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:21+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:21+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "jean-monnet-burs-programı-2026-2027-akademik-yılı-başvuruları-kapsamında-açıklam-25bfbe7f",
+        "baslik": "Jean Monnet Burs Programı 2026-2027 Akademik Yılı Başvuruları Kapsamında “Açıklamalar” Yayımlandı",
+        "ozet": "Jean Monnet Burs Programı 2026-2027 Akademik Yılı Başvuruları Kapsamında “Açıklamalar” Yayımlandı ENGLISH ANA SAYFA Giriş Noktanız BAŞKANLIK Kurumsal Yapı Dışişleri Bakanı Hakan FİDAN Dışişleri Bakan Yardımcısı ve AB Başkanı Büyükelçi Mehmet Kemal BOZAY AB Nezdinde Türkiye Daimi Temsilci Yardımcılığı Birimler Avrupa Birliği ile İlişkiler Genel Müdürlüğü Mali İşbirliği ve Proje Uygulama Genel Müdürlüğü Yönetim Hizmetleri Dairesi Başkanlığı İç Denetim Birimi Başkanlığı Hukuk Müşavirliği Strateji Geliştirme Dairesi Ba",
+        "kategori": "destekler",
+        "kaynak_adi": "AB Başkanlığı Duyurular",
+        "kaynak_url": "https://www.ab.gov.tr/jean-monnet-burs-programi-2026-2027-akademik-yili-basvurulari-kapsaminda-aciklamalar-yayimlandi_54125.html",
+        "kaynak_host": "www.ab.gov.tr",
+        "kaynak_tarihi": "2025-10-22",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:21+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:21+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "2026-2027-akademik-yılı-avrupa-koleji-yüksek-lisans-burs-programı-başvuruları-15-783f5c89",
+        "baslik": "2026-2027 Akademik Yılı Avrupa Koleji Yüksek Lisans Burs Programı Başvuruları 15 Ekim 2025’de Başlamıştır",
+        "ozet": "2026-2027 Akademik Yılı Avrupa Koleji Yüksek Lisans Burs Programı Başvuruları 15 Ekim 2025’de Başlamıştır ENGLISH ANA SAYFA Giriş Noktanız BAŞKANLIK Kurumsal Yapı Dışişleri Bakanı Hakan FİDAN Dışişleri Bakan Yardımcısı ve AB Başkanı Büyükelçi Mehmet Kemal BOZAY AB Nezdinde Türkiye Daimi Temsilci Yardımcılığı Birimler Avrupa Birliği ile İlişkiler Genel Müdürlüğü Mali İşbirliği ve Proje Uygulama Genel Müdürlüğü Yönetim Hizmetleri Dairesi Başkanlığı İç Denetim Birimi Başkanlığı Hukuk Müşavirliği Strateji Geliştirme Da",
+        "kategori": "destekler",
+        "kaynak_adi": "AB Başkanlığı Duyurular",
+        "kaynak_url": "https://www.ab.gov.tr/avrupa-koleji-duyurusu-lutfen-silmeyiniz-_54106.html",
+        "kaynak_host": "www.ab.gov.tr",
+        "kaynak_tarihi": "2025-10-15",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:20+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:20+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "haber-duyuru-acd847a1",
+        "baslik": "Haber / Duyuru",
+        "ozet": "Haber / Duyuru ENGLISH ANA SAYFA Giriş Noktanız BAŞKANLIK Kurumsal Yapı Dışişleri Bakanı Hakan FİDAN Dışişleri Bakan Yardımcısı ve AB Başkanı Büyükelçi Mehmet Kemal BOZAY AB Nezdinde Türkiye Daimi Temsilci Yardımcılığı Birimler Avrupa Birliği ile İlişkiler Genel Müdürlüğü Mali İşbirliği ve Proje Uygulama Genel Müdürlüğü Yönetim Hizmetleri Dairesi Başkanlığı İç Denetim Birimi Başkanlığı Hukuk Müşavirliği Strateji Geliştirme Dairesi Başkanlığı Basın ve Halkla İlişkiler Müşavirliği Başkanlık Özel Kalem Müdürlüğü Teşki",
+        "kategori": "destekler",
+        "kaynak_adi": "AB Başkanlığı Duyurular",
+        "kaynak_url": "https://www.ab.gov.tr/medya_44391.html",
+        "kaynak_host": "www.ab.gov.tr",
+        "kaynak_tarihi": "2017-04-04",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:20+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:20+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      },
+      {
+        "id": "türki-ye-de-si-vi-l-toplumun-sosyal-gi-ri-şi-mci-li-k-yoluyla-desteklenmesi-proj-bd928410",
+        "baslik": "'TÜRKİYE'DE SİVİL TOPLUMUN SOSYAL GİRİŞİMCİLİK YOLUYLA DESTEKLENMESİ' PROJESİ HİBE TEKLİF ÇAĞRILARI YAYIMLANDI",
+        "ozet": "'TÜRKİYE'DE SİVİL TOPLUMUN SOSYAL GİRİŞİMCİLİK YOLUYLA DESTEKLENMESİ' PROJESİ HİBE TEKLİF ÇAĞRILARI YAYIMLANDI ENGLISH ANA SAYFA Giriş Noktanız BAŞKANLIK Kurumsal Yapı Dışişleri Bakanı Hakan FİDAN Dışişleri Bakan Yardımcısı ve AB Başkanı Büyükelçi Mehmet Kemal BOZAY AB Nezdinde Türkiye Daimi Temsilci Yardımcılığı Birimler Avrupa Birliği ile İlişkiler Genel Müdürlüğü Mali İşbirliği ve Proje Uygulama Genel Müdürlüğü Yönetim Hizmetleri Dairesi Başkanlığı İç Denetim Birimi Başkanlığı Hukuk Müşavirliği Strateji Geliştir",
+        "kategori": "destekler",
+        "kaynak_adi": "AB Başkanlığı Duyurular",
+        "kaynak_url": "https://www.ab.gov.tr/turkiyede-sivil-toplumun-sosyal-girisimcilik-yoluyla-desteklenmesi-projesi-hibe-teklif-cagrilari-yayimlandi_54262.html",
+        "kaynak_host": "www.ab.gov.tr",
+        "kaynak_tarihi": "2026-07-24",
+        "ilk_yayin_tarihi": "2026-10-22T02:00:20+00:00",
+        "guncellenme_tarihi": "2026-10-22T02:00:20+00:00",
+        "yayin_durumu": "inceleme_bekliyor",
+        "dogrulama_durumu": "resmî_alan_adı_kontrol_edildi",
+        "detay_linki": true,
+        "editoryal_kontrol": {
+          "kaynak_allowlist": true,
+          "dogrudan_kaynak": true,
+          "kisisel_veri_taramasi": "temiz",
+          "telif_uygulamasi": "tam_metin_ve_gorsel_kopyalanmadi",
+          "manuel_onay_gerekli": true,
+          "riskler": []
+        }
+      }
+    ]
+  },
+  "kaynaklar": [
+    {
+      "ad": "Resmî Gazete",
+      "url": "https://www.resmigazete.gov.tr/",
+      "kategori": "kamusal_duyurular"
+    },
+    {
+      "ad": "Kamu İlan",
+      "url": "https://kamuilan.sbb.gov.tr/",
+      "kategori": "kamu_personeli_alimleri"
+    },
+    {
+      "ad": "Kariyer Kapısı",
+      "url": "https://kariyerkapisi.gov.tr/isealim",
+      "kategori": "personel_alimi"
+    },
+    {
+      "ad": "YÖK Akademik İlanlar",
+      "url": "https://www.yok.gov.tr/tr/announcements",
+      "kategori": "akademik_personel"
+    },
+    {
+      "ad": "ÖSYM Duyurular",
+      "url": "https://osym.gov.tr/Duyurular/Index",
+      "kategori": "sinav"
+    },
+    {
+      "ad": "MEB Duyurular",
+      "url": "https://mebsonuc.meb.gov.tr/",
+      "kategori": "egitim_burs"
+    },
+    {
+      "ad": "Sivil Toplumla İlişkiler",
+      "url": "https://www.siviltoplum.gov.tr/haberler",
+      "kategori": "sivil_toplum"
+    },
+    {
+      "ad": "AB Başkanlığı Duyurular",
+      "url": "https://www.ab.gov.tr/42.html",
+      "kategori": "destekler"
+    }
+  ],
+  "uyum": {
+    "yayin_modeli": "kaynak bağlantılı kısa özet + manuel editoryal onay",
+    "taslaklar_public_feede_girmez": true,
+    "kisisel_veri_taramasi": true,
+    "iki_yillik_kayit_hedefi": true,
+    "not": "Bu teknik kontroller hukuki incelemenin yerine geçmez."
+  }
+}
