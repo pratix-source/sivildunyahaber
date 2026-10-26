@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-26T01:52:17+00:00",
+  "generated_at": "2026-10-26T11:35:50+00:00",
   "sources": [
     {
       "ad": "Resmî Gazete",
@@ -47,7 +47,7 @@
       "durum": "başarısız",
       "http_status": null,
       "aday": 0,
-      "hata": "HTTPSConnectionPool(host='mebsonuc.meb.gov.tr', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='mebsonuc.meb.gov.tr', port=443) at 0x7f5c4bca35d0>, 'Connection to mebsonuc.meb.gov.tr timed o"
+      "hata": "HTTPSConnectionPool(host='mebsonuc.meb.gov.tr', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate "
     },
     {
       "ad": "Sivil Toplumla İlişkiler",
