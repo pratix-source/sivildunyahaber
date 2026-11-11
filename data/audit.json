@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-11T13:00:19+00:00",
+  "generated_at": "2026-11-11T23:44:52+00:00",
   "sources": [
     {
       "ad": "Resmî Gazete",
@@ -46,7 +46,7 @@
       "url": "https://mebsonuc.meb.gov.tr/",
       "durum": "başarılı",
       "http_status": 200,
-      "aday": 1,
+      "aday": 2,
       "hata": null
     },
     {
@@ -67,10 +67,10 @@
     }
   ],
   "totals": {
-    "new_candidates": 33,
-    "all_records": 33,
+    "new_candidates": 34,
+    "all_records": 34,
     "published": 0,
-    "review_queue": 33,
+    "review_queue": 34,
     "flagged": 0
   }
 }
