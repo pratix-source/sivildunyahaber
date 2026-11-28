@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T00:43:20+00:00",
+  "generated_at": "2026-11-28T14:36:09+00:00",
   "sources": [
     {
       "ad": "Resmî Gazete",
@@ -52,10 +52,10 @@
     {
       "ad": "Sivil Toplumla İlişkiler",
       "url": "https://www.siviltoplum.gov.tr/haberler",
-      "durum": "başarılı",
-      "http_status": 200,
-      "aday": 8,
-      "hata": null
+      "durum": "başarısız",
+      "http_status": null,
+      "aday": 0,
+      "hata": "HTTPSConnectionPool(host='www.siviltoplum.gov.tr', port=443): Max retries exceeded with url: /haberler (Caused by NameResolutionError(\"HTTPSConnection(host='www.siviltoplum.gov.tr', port=443): Failed to resolve 'www.siviltoplum.gov.tr' ([Er"
     },
     {
       "ad": "AB Başkanlığı Duyurular",
@@ -67,10 +67,10 @@
     }
   ],
   "totals": {
-    "new_candidates": 34,
-    "all_records": 34,
+    "new_candidates": 26,
+    "all_records": 26,
     "published": 0,
-    "review_queue": 34,
+    "review_queue": 26,
     "flagged": 0
   }
 }
